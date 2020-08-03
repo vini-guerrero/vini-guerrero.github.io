@@ -20,13 +20,13 @@ const profile = {
   "education": {
     "Fatec Technology University of Guarulhos": {
       "subheading": "Airport Logistics",
-      "description": "Technology - Complete",
-      "timeframe": "January 2009 - December 2011"
+      "description": "Responsible for planning and controlling cargo handling and storage at an airport. Evaluates the best air transport and packaging option for each type of merchandise. Defines how loads will be loaded. It determines the organization within specific containers for air transport. Calculates freight costs and tariffs. It also analyzes airline balance sheets. Another front of activity is the passenger terminal, where the technologist works with the planning of the flow of people and luggage. In Brazil, the privatization of airports stimulated the growth and professionalization of the sector, opening the field for the technologist in Airport Logistics.",
+      "timeframe": "Technology - Complete"
     },
     "Cruzeiro do Sul University": {
       "subheading": "Software Development",
-      "description": "Technology",
-      "timeframe": "In Progress"
+      "description": "Responsible for developing, designing, analyzing, implementing and maintaining information systems in different sectors. Information systems are those responsible for managing, organizing and manipulating information and data relevant to a specific sector or even an entire company. They work both in environments such as the internet and also on corporate intranet. These systems may be responsible for managing, for example, a company's inventory control data or even all information pertaining to the human resources sector database. The systems analyst is responsible for developing this software, from computer programming to integration with other machines, modeling these systems. However, the professional also needs to be based on notions of entrepreneurship, seeking to understand customers when developing systems that meet their needs. It is also important to have a certain amount of creativity to overcome possible obstacles. As the Systems Analysis and Development technologist has a strong programming base, developing games for mobile devices also presents itself as a job possibility for him.",
+      "timeframe": "Technology - In Progress"
     }
   },
   "experiences": {
