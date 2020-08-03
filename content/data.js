@@ -4,7 +4,7 @@ const profile = {
     "surname": "Guerrero",
     "email": "vini.ts.guerrero@gmail.com",
     "contact": "Software Engineer / Project Manager · +55 (11) 96894-4532 · ",
-    "description": "I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+    "description": "Acting in the implementation, maintenance and development of systems, applications and database, following good programming practices. Experience in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
     "networks": {
       "fab fa-linkedin-in": "https://www.linkedin.com/in/vinicius-guerrero-161409aa/",
       "fab fa-github": "https://github.com/vini-guerrero",
@@ -15,7 +15,6 @@ const profile = {
     }
   },
   "interests": [
-    "Acting in the implementation , maintenance and development of systems , applications and database , following good programming practices.",
     "Self-learn system development based on .NET platform using C# programming language focusing on connected systems, object-oriented layer programming. Applications prototipes developed in WPF, MVC, Windows Forms, Views, Forms, Dashboard Alerts and Websites using HTMl5, CSS3, Javascript, JQuery, Bootstrap Framework, Bootbox.js, SignalR, NodeJS and AngularJS. Hybrid Mobile Apllication development using Ionic Framrwork, Cordova, Plugins with back-end based on JSON files structure using the Firebase platform. Windows Phone 8.0 projects using XAML. Database using Stored Procedures, Triggers and Scripts. Game development, 2D using sprites or 3D FBX models, scripts, servers on Windows platform or Handheld Consoles (PSP). Additional Softwares: ​Microsoft Visual Studio .NET, SQL Server, SQL Management Studio, MySql, Access, Nero Visio, Macromedia Flash MX, Gimp, Sony Vegas, Sublime Text, Dev-C++, Notepad++, Framework XNA, Framework Windows Phone, Unity 3D Engine, FPSC, Game Maker, Blender, Power Designer, Eclipse 3.3."
   ],
   "education": {
@@ -32,9 +31,14 @@ const profile = {
   },
   "experiences": {
     "First Performance Global": {
-      "subheading": "Resource IT",
+      "subheading": "AlphaTech Studio",
+      "description": "Solutions for digital engagement in the branch of bank transaction authorizers. Advanced financial controls, experiences for cardholders with a management panel for customers from different countries and languages, call center, mobile applications and creation of machine learning procedures.",
+      "timeframe": "November 2019 - Present"
+    },
+    "Resource IT Solutions": {
+      "subheading": "First Performance Global",
       "description": "Gogonogo project, containing mobile application, administrative portal and user service call center. Acting on both backend and frontend with a focus on Javascript technologies and frameworks, Node packages, ORM integrated with MySQL and PhpMyAdmin databases. White-label application architecture for several banking customers in countries such as the United States, Chile, Colombia, Brazil and Argentina, working with the reading and interpretation of bank transaction data and card control in APIs integrated with a front-end responsive. SCRUM development with Planning Poker and Requirements control via Target Process tool, daily project monitoring conferences. Customer support and log tracking.",
-      "timeframe": "April 2016 - Present"
+      "timeframe": "April 2016 - November 2019"
     },
     "BRQ IT Services": {
       "subheading": "Itaú Unibanco",
@@ -54,6 +58,10 @@ const profile = {
   },
   "certifications" : [
     "Fluent English - Wizard Languages",
+    "Digital Marketing Fundamentals - Universidade Anhembi Morumbi",
+    "Developer On-Boarding - First Performance Global",
+    "Tech Team On-Boarding - First Performance Global",
+    "Tech Sales Training - First Performance Global",
     "Big Data - Intel Corporation",
     "NETC# - Fatec Praia Grande",
     "Spanish - Fatec Guarulhos",
@@ -64,6 +72,7 @@ const profile = {
     "C# Programming - Fundação Bradesco",
     "Conectivity Concepts - Dígitro Tecnologia",
     "IT In Organizations - FGV",
+    "MySQL - Curso Em Video",
     "TMS - Transport Management Systems - Benner Solution"
   ],
   "skills": {
