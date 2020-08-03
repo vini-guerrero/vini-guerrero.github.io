@@ -1,0 +1,11 @@
+.bg-primary {
+  background-color: #0072b1 !important;
+}
+
+.text-primary {
+  color: #567FAD !important;
+}
+
+.social-icons .social-icon:hover {
+  background-color: #567FAD;
+}
