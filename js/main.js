@@ -16,7 +16,7 @@ function fillProfileInfo(){
   let basic_info = "";
   basic_info += "<div class='subheading mb-5'>";
       basic_info += profile.about.contact;
-      basic_info += "<a href='mailto:" + profile.about.email + "'>" + profile.about.email + "</a>";
+      basic_info += "<a href='mailto:" + profile.about.email + "' target='_blank'>" + profile.about.email + "</a>";
   basic_info += "</div>";
   basic_info += "<p>" + profile.about.description + "</p>";
   $("#basic_info_description").html(basic_info);
@@ -33,7 +33,7 @@ function fillProfileInfo(){
   let networks = profile.about.networks;
   for (var icon in networks) {
     let url = networks[icon];
-    networks_info += "<a class='social-icon' href='" + url + "'><i class='" + icon + "'></i></a>";
+    networks_info += "<a class='social-icon' href='" + url + "' target='_blank'><i class='" + icon + "'></i></a>";
   }
   $(".social-icons").html(networks_info);
   // Skills

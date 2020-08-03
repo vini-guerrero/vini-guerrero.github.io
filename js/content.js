@@ -26,8 +26,8 @@ const profile = {
     },
     "Cruzeiro do Sul University": {
       "subheading": "Software Development",
-      "description": "Technology - In Progress",
-      "timeframe": "January 2015 - Present"
+      "description": "Technology",
+      "timeframe": "In Progress"
     }
   },
   "experiences": {
