@@ -77,6 +77,7 @@ const profile = {
   ],
   "skills": {
     "icons": [
+      "fab fa-apple",
       "fab fa-linux",
       "fab fa-windows",
       "fab fa-node",
@@ -93,9 +94,11 @@ const profile = {
       "fab fa-vuejs",
       "fab fa-android",
       "fab fa-google-play",
-      "fab fa-apple",
+      "fas fa-mobile-alt",
       "fab fa-app-store",
       "fab fa-wordpress",
+      "fab fa-opencart",
+      "fab fa-elementor",
       "fab fa-cpanel",
       "fas fa-database",
       "fab fa-git",
@@ -103,6 +106,10 @@ const profile = {
       "fab fa-bitbucket",
       "fab fa-jira",
       "fab fa-trello",
+      "fab fa-chrome",
+      "fab fa-firefox",
+      "fab fa-safari",
+      "fab fa-edge",
       "fab fa-unity"
     ],
     "workflow": [
