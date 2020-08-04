@@ -3,6 +3,7 @@ $(document).ready(function() {
   fillEducation();
   fillExperience();
   fillCertificate();
+  fillPortfolio();
 });
 
 function fillProfileInfo(){
@@ -35,6 +36,7 @@ function fillProfileInfo(){
     let url = networks[icon];
     networks_info += "<a class='social-icon' href='" + url + "' target='_blank'><i class='" + icon + "'></i></a>";
   }
+  networks_info += "<a class='social-icon' href='mailto:" + profile.about.email + "' target='_blank'><i class='far fa-envelope'></a>";
   $(".social-icons").html(networks_info);
   // Skills
   let skills_info = "";
@@ -54,6 +56,21 @@ function fillProfileInfo(){
   }
   $("#workflow_info").html(workflow_info);
 }
+
+function fillPortfolio(){
+  let portfolio_info = "";
+  let portfolio = profile.portfolio;
+  for (var p in portfolio) {
+    let item = portfolio[p];
+    portfolio_info += "<div class='grid-item'>";
+      portfolio_info += "<a class='portfolio-item' target='_blank' href='" + item["url"] + "'>";
+        portfolio_info += "<img src='" + item["img"] + "'>";
+      portfolio_info += "</a>";
+    portfolio_info += "</div>";
+  }
+  $("#portfolio_grid").html(portfolio_info);
+}
+
 
 function fillEducation(){
   let education_field = $("#education_info");

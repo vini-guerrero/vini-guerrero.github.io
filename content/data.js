@@ -15,7 +15,7 @@ const profile = {
     }
   },
   "interests": [
-    "Self-learn system development based on .NET platform using C# programming language focusing on connected systems, object-oriented layer programming. Applications prototipes developed in WPF, MVC, Windows Forms, Views, Forms, Dashboard Alerts and Websites using HTMl5, CSS3, Javascript, JQuery, Bootstrap Framework, Bootbox.js, SignalR, NodeJS and AngularJS. Hybrid Mobile Apllication development using Ionic Framrwork, Cordova, Plugins with back-end based on JSON files structure using the Firebase platform. Windows Phone 8.0 projects using XAML. Database using Stored Procedures, Triggers and Scripts. Game development, 2D using sprites or 3D FBX models, scripts, servers on Windows platform or Handheld Consoles (PSP). Additional Softwares: ​Microsoft Visual Studio .NET, SQL Server, SQL Management Studio, MySql, Access, Nero Visio, Macromedia Flash MX, Gimp, Sony Vegas, Sublime Text, Dev-C++, Notepad++, Framework XNA, Framework Windows Phone, Unity 3D Engine, FPSC, Game Maker, Blender, Power Designer, Eclipse 3.3."
+    "Self-learn system development based on .NET platform using C# programming language focusing on connected systems, object-oriented layer programming. Applications prototipes developed in WPF, MVC, Windows Forms, Views, Forms, Dashboard Alerts and Websites using HTMl5, CSS3, Javascript, JQuery, Bootstrap Framework, Bootbox.js, SignalR, NodeJS and AngularJS. Hybrid Mobile Apllication development using Ionic Framework, Cordova, Ionic, Plugins with back-end based on JSON files structure using the Firebase platform. Windows Phone 8.0 projects using XAML. Database using Stored Procedures, Triggers and Scripts. Game development, 2D using sprites or 3D FBX models, scripts, servers on Windows platform or Handheld Consoles (PSP). Additional Softwares: ​Microsoft Visual Studio .NET, SQL Server, SQL Management Studio, MySql, Access, Nero Visio, Macromedia Flash MX, Gimp, Sony Vegas, Sublime Text, Dev-C++, Notepad++, Framework XNA, Framework Windows Phone, Godot Engine, Unreal Engine, Unity, FPSC, Game Maker, Blender, Power Designer, Eclipse."
   ],
   "education": {
     "Fatec Technology University of Guarulhos": {
@@ -58,22 +58,35 @@ const profile = {
   },
   "certifications" : [
     "Fluent English - Wizard Languages",
-    "Digital Marketing Fundamentals - Universidade Anhembi Morumbi",
-    "Developer On-Boarding - First Performance Global",
-    "Tech Team On-Boarding - First Performance Global",
-    "Tech Sales Training - First Performance Global",
     "Big Data - Intel Corporation",
-    "NETC# - Fatec Praia Grande",
     "Spanish - Fatec Guarulhos",
+    "TMS - Transport Management Systems - Benner Solution",
+    "Digital Marketing Fundamentals - Universidade Anhembi Morumbi",
+    "Tech Team On-Boarding - First Performance Global",
+    "Developer On-Boarding - First Performance Global",
+    "Tech Sales Training - First Performance Global",
     "IT Management - Next Generation Center",
-    "IT Security - Next Generation Center",
-    "Software Development Process - Fundação Bradesco",
-    "Mobile Applications - Fundação Bradesco",
-    "C# Programming - Fundação Bradesco",
+    "Technology and Science - FGV",
+    "People Management - FGV",
     "Conectivity Concepts - Dígitro Tecnologia",
-    "IT In Organizations - FGV",
+    "C# Programming - Fundação Bradesco",
+    "IT Management - Next Generation Center",
+    "How to Create 3D Game Assets - Udemy",
+    "Unreal Engine 4 Class- Blueprints - Udemy",
+    "Game Level with Godot 3.2 and Blender 2.82 - Udemy",
+    "Day-to-Day Sustainability - FGV",
+    "Philosophy - FGV",
+    "How to Organize the Family Budget - FGV",
+    "Balanced Scorecard - FGV",
+    "Software Development Process - Fundação Bradesco",
+    "Windows Mobile Applications - Fundação Bradesco",
+    "NETC# - Fatec Praia Grande",
+    "JAVA - Curso Em Video",
     "MySQL - Curso Em Video",
-    "TMS - Transport Management Systems - Benner Solution"
+    "Microsoft Word - Curso Em Video",
+    "PHP - Curso Em Video",
+    "HTML5 - Curso Em Video",
+    "Home Office - Resource IT Solutions"
   ],
   "skills": {
     "icons": [
@@ -118,5 +131,31 @@ const profile = {
       "Cross Functional Teams",
       "Agile Development & Scrum"
     ]
+  },
+  "portfolio": {
+    "FP1": {
+      "url": "https://firstperformance.com/",
+      "img": "https://firstperformance.com/wp-content/uploads/2019/08/mobile-card-close-1.png"
+    },
+    "FP2": {
+      "url": "https://firstperformance.com/",
+      "img": "https://firstperformance.com/wp-content/uploads/2019/09/Next-Generation-of-Card-Controls-1.png"
+    },
+    "Avalae1": {
+      "url": "https://avalae.com/",
+      "img": "assets/portfolio/1.png"
+    },
+    "Avalae2": {
+      "url": "https://avalae.com/",
+      "img": "assets/portfolio/2.png"
+    },
+    "GGT": {
+      "url": "https://viniguerrero.itch.io/godot-game-tools",
+      "img": "assets/portfolio/3.png"
+    },
+    "PRC": {
+      "url": "https://viniguerrero.itch.io/pre-render-creator",
+      "img": "assets/portfolio/4.png"
+    }
   }
 }
