@@ -3,7 +3,7 @@ const profile = {
     "name": "Vinicius",
     "surname": "Guerrero",
     "email": "vini.ts.guerrero@gmail.com",
-    "contact": "Software Engineer / Project Manager · +55 (11) 96894-4532 · ",
+    "contact": "Software Engineer / Project Manager Office  ·  ",
     "description": "Acting in the implementation, maintenance and development of systems, applications and database, following good programming practices. Experience in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
     "networks": {
       "fab fa-linkedin-in": "https://www.linkedin.com/in/vinicius-guerrero-161409aa/",
@@ -37,17 +37,17 @@ const profile = {
     },
     "Resource IT Solutions": {
       "subheading": "First Performance Global",
-      "description": "Gogonogo project, containing mobile application, administrative portal and user service call center. Acting on both backend and frontend with a focus on Javascript technologies and frameworks, Node packages, ORM integrated with MySQL and PhpMyAdmin databases. White-label application architecture for several banking customers in countries such as the United States, Chile, Colombia, Brazil and Argentina, working with the reading and interpretation of bank transaction data and card control in APIs integrated with a front-end responsive. SCRUM development with Planning Poker and Requirements control via Target Process tool, daily project monitoring conferences. Customer support and log tracking.",
+      "description": "Mobile application, administrative portal and user service call center for Gogonogo project. Acting on both backend and frontend with a focus on Javascript technologies and frameworks, Node packages, ORM integrated with MySQL and PhpMyAdmin databases. White-label application architecture for several banking customers in countries such as the United States, Chile, Colombia, Brazil and Argentina, working with the reading and interpretation of bank transaction data and card control in APIs integrated with a front-end responsive. SCRUM development with Planning Poker and Requirements control via Target Process tool, daily project monitoring conferences. Customer support and log tracking.",
       "timeframe": "April 2016 - November 2019"
     },
     "BRQ IT Services": {
       "subheading": "Itaú Unibanco",
-      "description": "Project Splunk> Big Data Business Analytics project development, indexing real-time log data capture from relational or non-relational databases, XML, JSON, field extraction based on regular expressions, data analysis used to construct dashboards, views, forms, reports, alerts or graphics for events or security control measures interpretation. Project Carga Multicanal MVC System firmware upgrading solution for bank branches, providing task-schedule, filtering searches and user authentication. ActiveX component used to generate compressed packages. Windows Services and WCF agents acting in user control and SQL procedures and queries. Project Portal de Serviços MVC Web layout adaptation from a fluid-layout to a two fixed breakpoint resolution system, following browser resize changes during user navigation. Side menu change from a static dom element to a retractile JQuery UI based object.",
+      "description": "Splunk> Big Data Business Analytics project development, indexing real-time log data capture from relational or non-relational databases, XML, JSON, field extraction based on regular expressions, data analysis used to construct dashboards, views, forms, reports, alerts or graphics for events or security control measures interpretation. Project Carga Multicanal MVC System firmware upgrading solution for bank branches, providing task-schedule, filtering searches and user authentication. ActiveX component used to generate compressed packages. Windows Services and WCF agents acting in user control and SQL procedures and queries. Project Portal de Serviços MVC Web layout adaptation from a fluid-layout to a two fixed breakpoint resolution system, following browser resize changes during user navigation. Side menu change from a static dom element to a retractile JQuery UI based object.",
       "timeframe": "July 2014 - January 2016"
     },
     "Benner Solution": {
       "subheading": "Patrus Transportes Urgentes",
-      "description": "Project BL Logistics TMS / ERP System migration from Dephi architecture to .NET C# SQL table maintenance and file integration between systems. Firmware release validation, XML files reception using EDI technology, user support, data register in Supply Chain. Transport document emission (RPS /CTe). Travel, cargo and productivity report design.",
+      "description": "BL Logistics TMS / ERP System migration from Dephi architecture to .NET C# SQL table maintenance and file integration between systems. Firmware release validation, XML files reception using EDI technology, user support, data register in Supply Chain. Transport document emission (RPS /CTe). Travel, cargo and productivity report design.",
       "timeframe": "March 2014 – July 2014"
     },
     "Tap Portugal": {
