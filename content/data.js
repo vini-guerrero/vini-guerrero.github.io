@@ -8,7 +8,7 @@ const profile = {
     "networks": {
       "fab fa-linkedin-in": "https://www.linkedin.com/in/vinicius-guerrero-161409aa/",
       "fab fa-github": "https://github.com/vini-guerrero",
-      "fab fa-twitter": "https://twitter.com/viiniiguerrero",
+      "fab fa-twitter": "https://twitter.com/viniguerrero",
       "fab fa-itch-io": "https://viniguerrero.itch.io/",
       "fab fa-discord": "VinnyGuerrero#7237",
       "fab fa-youtube": "https://www.youtube.com/channel/UCbEKIr_SrQriVr2zNnVTHTg"
