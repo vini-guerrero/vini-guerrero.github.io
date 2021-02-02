@@ -113,6 +113,8 @@ const profile = {
       "fab fa-opencart",
       "fab fa-elementor",
       "fab fa-cpanel",
+      "fab fa-cc-paypal",
+      "fab fa-cc-stripe",
       "fas fa-database",
       "fab fa-git",
       "fab fa-github",
@@ -123,7 +125,11 @@ const profile = {
       "fab fa-firefox",
       "fab fa-safari",
       "fab fa-edge",
-      "fab fa-unity"
+      "fab fa-docker",
+      "fab fa-digital-ocean",
+      "fab fa-google-drive",            
+      "fab fa-unity",
+      "fab fa-itch-io"
     ],
     "workflow": [
       "Mobile-First, Responsive Design",
