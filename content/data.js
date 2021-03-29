@@ -178,12 +178,14 @@ const profile = {
   },
   portfolio_items: {
     "Godot Game Tools - GGT": [
-      "With over 25k views and almost 9k downloads only on Itch.io this tool simplifies the preparation of animated characters 3d models by creating a fast workflow as a Blender add-on that imports and exports gamedev-ready assets to include in multi-purpose projects.",
-      "⦿ Originally designed to Godot Engine, this tool has also been used on a numerous projects over other engines such as Unity or Unreal.",
+      "With over 25k views and almost 9k downloads only on Itch.io this tool simplifies the preparation of skinned meshes animated characters 3d models by creating a fast workflow as a Python based Blender add-on that imports and exports gamedev-ready assets to include in multi-purpose projects.",
+      "</br>",
+      "⦿ Originally designed to Godot Engine, this tool has also been used on numerous projects over other engines such as Unity or Unreal.",
       "⦿ Batch and bake animations into a single file aiming for a significant reduction over final package as well as better file organization.",
       "⦿ Fast and easy animation manager that includes quick preview, renaming, animation trimming, keyframe reduction, animation listing and more.",
       "⦿ Support for Godot Engine Animation State Machine by generating configuration files that can be reused for as many characters as required by the project",
-      "⦿ Open source available and open to contributions project on <a href='https://github.com/vini-guerrero/Godot_Game_Tools' target='_blank'>Github</a>",
+      "⦿ Open source project available and open to contributions on <a href='https://github.com/vini-guerrero/Godot_Game_Tools' target='_blank'>Github</a>",
+      "</br>",
       "Honorable mentions as reviews and tutorials on Canadians, Americans, Brazilian and Italian Youtube Channels:",
       "<a href='https://youtu.be/utXuYpyBRN4' target='_blank'>✓ GamesfromScratch </a>",
       "<a href='https://youtu.be/EmQBLxxPV3E' target='_blank'>✓ Ombarus </a>",
