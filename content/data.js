@@ -56,7 +56,7 @@ const profile = {
     "Benner Solution": {
       subheading: "Patrus Transportes Urgentes",
       description:
-        "BL Logistics TMS / ERP System migration from Dephi architecture to .NET C# SQL table maintenance and file integration between systems. Firmware release validation, XML files reception using EDI technology, user support, data register in Supply Chain. Transport document emission (RPS /CTe). Travel, cargo and productivity report design.",
+        "BL Logistics TMS / ERP System migration from Delphi architecture to .NET C# SQL table maintenance and file integration between systems. Firmware release validation, XML files reception using EDI technology, user support, data register in Supply Chain. Transport document emission (RPS /CTe). Travel, cargo and productivity report design.",
       timeframe: "March 2014 – July 2014",
     },
     "Tap Portugal": {
