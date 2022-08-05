@@ -3,12 +3,12 @@ const profile = {
     name: "Vinicius",
     surname: "Guerrero",
     email: "vini.ts.guerrero@gmail.com",
-    contact: "Software Engineer / Project Manager Office  ·  ",
+    contact: "Senior Fullstack Software Engineer  ·  ",
     description:
       "Acting in the implementation, maintenance and development of systems, applications and database, following good programming practices. Experience in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
     networks: {
       "fab fa-linkedin-in":
-        "https://www.linkedin.com/in/vinicius-guerrero-161409aa/",
+        "https://www.linkedin.com/in/vinicius-guerrero/",
       "fab fa-github": "https://github.com/vini-guerrero",
       "fab fa-twitter": "https://twitter.com/viniguerrero",
       "fab fa-itch-io": "https://viniguerrero.itch.io/",
