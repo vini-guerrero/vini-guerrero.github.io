@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vini-guerrero.github.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://vini-guerrero.github.io/projects/generative-ai-asset-pipeline</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/procedural-dungeon-generation</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/modular-advanced-ui</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/custom-asset-inspector</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/godot-game-tools</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/pre-render-creator</loc></url>
+  <url><loc>https://vini-guerrero.github.io/projects/custom-character-movement-component</loc></url>
+</urlset>

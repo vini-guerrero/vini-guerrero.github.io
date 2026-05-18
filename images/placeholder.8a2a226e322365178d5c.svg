@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Image placeholder">
+  <rect width="800" height="500" fill="#1f1f1f"/>
+  <rect x="0.5" y="0.5" width="799" height="499" fill="none" stroke="#333" stroke-width="1"/>
+  <g fill="none" stroke="#3a3a3a" stroke-width="2">
+    <circle cx="400" cy="220" r="46"/>
+    <path d="M150 380 L320 250 L430 330 L520 270 L650 380 Z"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" font-family="Outfit, Arial, sans-serif" font-size="22" fill="#555">Image coming soon</text>
+</svg>

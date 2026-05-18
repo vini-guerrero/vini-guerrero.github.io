@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vini-guerrero.github.io/sitemap.xml
